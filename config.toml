@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "/" # Doit finir avec un /
+baseURL = "https://geo4seas.com/" # Doit finir avec un /
 title = "Geo4Seas"
 theme = "meghna-hugo"
 # post pagination
