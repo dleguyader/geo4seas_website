@@ -1,0 +1,64 @@
+################################# Testimonial #########################
+testimonial:
+  enable : true
+  title: "Our references"
+  bg_image : images/backgrounds/water_crop_dark.png #bg-testimonial.jpg
+  bg_image_webp : images/backgrounds/water_crop_dark.webp #bg-testimonial.webp
+  testimonial_item :
+    
+    
+    # testimonial item loop
+    - name : 
+      image : images/client/logo_ohm_lc.png
+      image_webp : images/client/logo_ohm_lc.webp
+      date : 
+      content : OHM Littoral Caraïbe
+
+    # testimonial item loop
+    - name : 
+      image : images/client/logo_Fondation_de_France_si.png
+      image_webp : images/client/logo_Fondation_de_France.webp
+      date : 
+      content : Fondation de France
+    
+     # testimonial item loop
+    - name : 
+      image : images/client/logo_fem_si.jpg
+      image_webp : images/client/logo_fem.webp
+      date : 
+      content : France Energie Marine
+    
+        # testimonial item loop
+    - name : 
+      image : images/client/logo_cnrs_si.jpg
+      image_webp : images/client/logo_cnrs.webp
+      date : 
+      content : CNRS
+      
+    # testimonial item loop
+    - name : 
+      image : images/client/logo_DRIIHM_si.jpg
+      image_webp : images/client/logo_DRIIHM.webp
+      date : 
+      content : Labex DRIIHM
+      
+    # testimonial item loop
+    - name : 
+      image : images/client/logo_iuem_si.jpg
+      image_webp : images/client/logo_iuem.webp
+      date : 
+      content : IUEM
+      
+    # testimonial item loop
+    - name : 
+      image : images/client/logo_ubo_si.jpg
+      image_webp : images/client/logo_ubo.webp
+      date : 
+      content : UBO
+
+    # testimonial item loop
+    - name : 
+      image : images/client/logo_ulco_si.jpg
+      image_webp : images/client/logo_ulco.webp
+      date : 
+      content : ULCO

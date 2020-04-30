@@ -1,0 +1,30 @@
+#################################### portfolio ###############################
+#################################### portfolio ###############################
+portfolio:
+  enable : true
+  title : Nos projets
+  portfolio_item :
+    # portfolio item loop
+    - name : TRAFIC
+      image : images/portfolio/trafic.png
+      image_webp : images/portfolio/trafic.webp
+      categories : ["Transport maritime", "Données AIS"]
+      content : vise à comprendre les interactions entre trafic maritime/environnement dans les Caraïbes.
+      link : "projets/trafic"
+      
+    # portfolio item loop
+    - name : APPEAL
+      image : images/portfolio/windfarms_co.jpg
+      image_webp : images/portfolio/windfarms_co.webp
+      categories : ["Eolien en mer","Optimisation spatiale"]
+      content : vise à identifier et mesurer les enjeux écologiques et socio-économiques posés par les projets EMR.
+      link : "projets/appeal"
+      
+    # portfolio item loop
+    - name : WINDSERV
+      image : images/portfolio/nordsee.png
+      image_webp : images/portfolio/nordsee.webp
+      categories : ["Eolien en mer","Services écosystémiques"]
+      content : vise à évaluer les services écosystémiques liés à l'éoliens offshore.
+      link : "projets/windserv"
+      

@@ -1,0 +1,11 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  bg_image : "images/backgrounds/water_crop.jpg"
+  bg_image_webp : "images/backgrounds/water_crop.webp"
+  title : "A votre écoute"
+  content : "Nous nous engageons dans un travail de qualité."
+  button:
+    enable : true
+    label : "Un projet ? Contacter nous."
+    link : "#contact"

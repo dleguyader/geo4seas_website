@@ -1,0 +1,12 @@
+############################# About ###################################
+about:
+  enable : true
+  title : About Us
+  about_item :
+  - icon : fl-globe
+    title : Geomatics
+    content : <em><strong>Geo4</strong><font color=#57CBCC>Seas</font></strong></em> is a design office specialised in the production, analysis, modelling and representation of geographic information for the sustainable development of territories and resources. <br /> <br /> With more than 12 years of experience, we have developed a solid expertise in geomatics and geography, enabling us to provide solutions to industrials, public operators (managers of sensitive natural spaces, local authorities, government services), professional organisations and environmental consultancies.
+
+  - icon :  fl-tactic # ti-world
+    title : Maritime Planning and Management
+    content : Describing, analysing and understanding the complex interactions between human activities and ecosystems are major challenges for maritime and coastal areas planning and management. <br /> <br /> <em><strong>Geo4</strong><font color=#57CBCC>Seas</font></strong></em> offers a range of geomatics solutions that provide a realistic and dynamic knowledge of the spatio-temporal distribution of maritime activities, their potential interactions with each other and their multiple effects on the environment. <br /> <br /> In partnership with the research community, <em><strong>Geo4</strong><font color=#57CBCC>Seas</font></strong></em>  contributes to the modelling of the marine and coastal socio-system in order to assist in planning and management.

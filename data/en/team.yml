@@ -1,0 +1,20 @@
+############################### team ############################
+team:
+  enable : true
+  title : Our Team
+  team_member :
+    # team member loop
+    - name : Damien Le Guyader
+      image_webp : images/team/team-1.webp
+      image : images/team/team-1.jpg
+      designation : CEO/Founder
+      content : "Holding a PhD in geography prepared in the [LETG-Brest (UMR 6554 CNRS)](https://letg.cnrs.fr/) laboratory at the [IUEM](https://www-iuem.univ-brest.fr/), he was awarded the PhD thesis prize from the Research Group [''Methods and Applications for Geomatics and Spatial Information''(GDR MAGIS)](http://gdr-magis.imag.fr/)."
+      social :
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "//linkedin.com/in/damien-le-guyader-b68b5845"
+        - icon : ai-orcid #
+          link : "//orcid.org/0000-0003-2128-2361"
+        - icon : ai-academia 
+          link : "//independent.academia.edu/DamienLeGuyader"
+        - icon : ai-researchgate 
+          link : "//researchgate.net/profile/Damien_Guyader"

@@ -1,0 +1,34 @@
+
+convert logo_cnrs.png -background black -flatten logo_cnrs.jpg
+convert logo_cnrs.png -background RoyalBlue4 -alpha remove -alpha off logo_cnrs.jpg
+Convert logo_cnrs.jpg -resize 300x300 logo_cnrs_si.jpg # Will resize an image so its longest side is 500px keeping the aspect ratio
+convert logo_cnrs_si.jpg logo_cnrs.webp
+
+Convert logo_cnrs_rd.png -resize 300x300 logo_cnrs_si.jpg 
+convert logo_cnrs_si.jpg logo_cnrs.webp
+
+
+Convert Logo-IUEM-rd.png -resize 300x300 logo_iuem_si.jpg 
+convert logo_iuem_si.jpg logo_iuem.webp
+
+Convert Logo-ulco-rd.png -resize 300x300 logo_ulco_si.jpg 
+convert logo_ulco_si.jpg logo_ulco.webp
+
+Convert Logo-ubo-rd.png -resize 300x300 logo_ubo_si.jpg 
+convert logo_ubo_si.jpg logo_ubo.webp
+
+convert logo_DRIIHM.png -background white -flatten logo_DRIIHM.jpg
+Convert logo_DRIIHM.jpg -resize 300x300 logo_DRIIHM_si.jpg
+convert logo_DRIIHM_si.jpg logo_DRIIHM.webp
+
+Convert logo_DRIIHM.png -resize 300x300 logo_DRIIHM_si.jpg
+convert logo_DRIIHM_si.jpg logo_DRIIHM.webp
+
+Convert logo_fem.png -resize 300x300 logo_fem_si.jpg
+convert logo_fem_si.jpg logo_fem.webp
+
+Convert logo_ohm_lc.png -resize 300x300 logo_ohm_lc_si.png
+convert logo_ohm_lc_si.png logo_ohm_lc.webp
+
+Convert logo_Fondation_de_France.png -resize 300x300 logo_Fondation_de_France_si.png
+convert logo_Fondation_de_France_si.png logo_Fondation_de_France.webp

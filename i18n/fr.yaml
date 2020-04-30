@@ -1,0 +1,20 @@
+- id: blogTitle
+  translation: Actualités
+- id: readMore
+  translation: Lire la suite
+- id: viewAllPost
+  translation: Voir tous les articles
+- id: share
+  translation: Partager
+- id: aboutAuthor
+  translation: À propos de l'auteur
+- id: authorsPosts
+  translation: Articles de l'auteur
+- id: submit
+  translation: Soumettre
+- id: all
+  translation: Tous
+- id: copyright
+  translation: © [Geo4Seas](https://geo4seas.com/), 2020 | [Mentions légales](legal/mentionsfr/)
+- id: your name
+  translation: Votre nom

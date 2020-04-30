@@ -1,0 +1,11 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  bg_image : "images/backgrounds/water_crop.jpg"
+  bg_image_webp : "images/backgrounds/water_crop.webp"
+  title : "Listening to your needs"
+  content : "We are engaged in committed quality services"
+  button:
+    enable : true
+    label : "Start a project with us"
+    link : "#contact"

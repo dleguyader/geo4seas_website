@@ -1,0 +1,262 @@
+################################# Default configuration ###################
+baseURL = "/"
+title = "Geo4Seas"
+theme = "meghna-hugo"
+# post pagination
+paginate = "6"
+draft=  false # if set to true, changes will not be published
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+# post excerpt
+summaryLength = "15"
+# disqus short name
+disqusShortname = "" # get your shortname form here : https://disqus.com
+# disable language
+disableLanguages = []
+# langage par defaut
+defaultContentLanguage = "fr" #### Rajout
+# enable SEO
+enableRobotsTXT = true
+canonifyURLs = true
+enableEmoji = true
+
+
+# Configure BlackFriday Markdown rendering.
+#   See: https://gohugo.io/getting-started/configuration/#configure-blackfriday
+[blackfriday]
+  hrefTargetBlank = true  # `true` opens external links in a new tab.
+  fractions = true  # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
+  smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
+  extensions = ["backslashLineBreak"]
+  
+  
+############################# Plugins ##########################
+# css plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+link = "plugins/academicons/academicons.css"
+[[params.plugins.css]]
+link = "plugins/flaticons/flaticon.css"
+[[params.plugins.css]]
+link = "plugins/animate-css/animate.css"
+[[params.plugins.css]]
+link = "plugins/magnific-popup/magnific-popup.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700&display=swap"
+[[params.plugins.css]]
+link = "https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+[[params.plugins.css]]
+link = "plugins/leaflet-map/leaflet.css"
+
+
+
+# js plugins
+[[params.plugins.js]]
+link = "plugins/jquery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/shuffle/shuffle.min.js"
+[[params.plugins.js]]
+link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
+[[params.plugins.js]]
+link = "plugins/wow/wow.min.js"
+[[params.plugins.js]]
+link = "plugins/lazy-load/lozad.min.js"
+#[[params.plugins.js]]
+#link = "plugins/google-map/map.js"
+[[params.plugins.js]]
+link = "plugins/leaflet-map/leaflet.js"
+
+
+############################# Navigation ##################################
+## FR
+[[Languages.fr.menu.main]]
+name = "Présentation"
+URL = "about"
+weight = 1
+
+
+[[Languages.fr.menu.main]]
+name = "Services"
+weight = 2
+URL = "services"
+
+
+[[Languages.fr.menu.main]]
+name = "Projets"
+URL = "portfolio"
+weight = 3
+
+[[Languages.fr.menu.main]]
+name = "Références"
+URL = "testimonial" #"clients"
+weight = 4
+
+[[Languages.fr.menu.main]]
+name = "Actualités"
+URL = "blog"
+weight = 5
+
+
+[[Languages.fr.menu.main]]
+name = "Contact"
+URL = "contact"
+weight = 6
+
+## EN
+[[Languages.en.menu.main]]
+name = "About"
+URL = "about"
+weight = 1
+
+[[Languages.en.menu.main]]
+name = "Services"
+URL = "services"
+weight = 2
+
+[[Languages.en.menu.main]]
+name = "Projects"
+URL = "portfolio"
+weight = 3
+
+
+[[Languages.en.menu.main]]
+name = "References"
+URL = "testimonial"#"clients"
+weight = 4
+
+
+[[Languages.en.menu.main]]
+name = "News"
+URL = "blog"
+weight = 5
+
+
+[[Languages.en.menu.main]]
+name = "Contact"
+URL = "contact"
+weight = 6
+
+
+
+############################# Default Parameters ##########################
+[params]
+logo = "images/logo_geo4seas_fond_sombre_nom_ligne_200x42.svg"
+# Meta data
+description = "Geo4Seas"
+author = "Damien Le Guyader"
+# Google Analitycs
+google_analitycs_id = "" # Your ID
+# post share
+post_share = true
+
+
+# preloader
+[params.preloader]
+enable = true
+preloader = "images/logo_geo4seas_fond_sombre_nom_ligne_200x42.svg"
+
+
+
+# google map
+[params.map]
+enable = true
+#gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCKZeOfoHzIzoqMWrsrzaVsDtjMzB1ysGo&libraries=places"
+
+gmap_api = "https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+#api_key = "pk.eyJ1IjoiZGFtaWVubGVnIiwiYSI6ImNrMDNzMDBuODF4dnQzaHByZ2w5M2JqaGsifQ.ogj06UEw_TQA3qlU1fgd0A"
+#gmap_api = "http://umap.openstreetmap.fr/en/map/untitled-map_450752#6/47.517/2.395"
+#map_latitude = "48.4023305"
+#map_longitude = "-4.4125471"
+#map_marker = "images/marker.png"
+
+
+
+
+############################# social icons ##########################
+
+# social Icons
+
+#[[params.footer.socialIcon]]
+#icon = "tf-ion-social-twitter"
+#url = "https://twitter.com/fubits"
+
+#[[params.footer.socialIcon]]
+#icon = "tf-ion-social-key"
+#url = "https://keybase.io/fubits/"
+
+#[[params.footer.socialIcon]]
+#icon = "tf-ion-social-github"
+#url = "https://github.com/ellocke/"
+
+#[[params.footer.socialIcon]]
+#icon = "tf-ion-social-linkedin"
+#url = "https://www.linkedin.com/in/ilja-sperling/"
+
+
+[[params.social]]
+icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
+link = "//linkedin.com/in/geo4seas"
+
+#[[params.social]]
+#icon = "ai-orcid"
+#link = "//orcid.org/0000-0003-2128-2361"
+
+#[[params.social]]
+#icon = "ai-academia"
+#link = "//independent.academia.edu/DamienLeGuyader"
+
+#[[params.social]]
+#icon = "ai-researchgate"
+#link = "//researchgate.net/profile/Damien_Guyader"
+
+
+
+# ti-github
+# ti-linux
+# ti-microsoft
+# ti-linkedin
+
+
+
+################################ France Language ########################
+[Languages.fr]
+languageName = "Fr"
+languageCode = "fr-fr"
+contentDir = "content/french"
+weight = 1
+home = "Accueil"
+
+################################ English Language ########################
+[Languages.en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 2
+home = "Home"
+
+
+
+################################ 
+
+## NE MARCHE PAS
+## footer
+#[params.footer]
+  #  copyright = "© Geo4Seas"
+   # copyrightURL = "https://www.Geo4Seas.com"
+    #theme = "© Meghna Hugo by Themefisher"
+    #themeURL = "https://themes.gohugo.io/meghna-hugo/"
+    #themeLicense = "CC BY 3.0"
+    #themeLicenseURL = "https://creativecommons.org/licenses/by/3.0/"
+    #pageLicense = "CC BY-SA 4.0"
+    #pageLicenseURL = "https://creativecommons.org/licenses/by-sa/4.0/"
+
+
+

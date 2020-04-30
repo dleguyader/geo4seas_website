@@ -1,0 +1,25 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image :  images/backgrounds/my_triangle_dem_crop.jpg #images/about/about-business-man.jpg
+  image_webp : images/backgrounds/my_triangle_dem_crop.webp
+  title : Nous vous accompagnons dans vos projets en géomatique.
+  content : "Geo4Seas dispose de solutions opérationnelles allant de l'acquisition, à l'analyse et la représentation de l'information géographique."
+  feature_item : 
+      # feature item loop
+    - title : Acquisition et structuration de données
+      icon : ti-server # themify icon pack : https://themify.me/themify-icons
+      content : Acquisition de données à partir d’enquêtes.<br />Acquisition et pré-traitement de données AIS (<em>Big Data</em>).<br />Acquisition de données relatives aux activités de loisirs maritimes.
+      
+      # feature item loop
+    - title : Analyses spatio-temporelles et multicritères pour la production d’indicateurs
+      icon : fl-gear # themify icon pack : https://themify.me/themify-icons
+      content : Déroulement des activités.<br />Interactions entre activités / Conflits d’usage pour l’espace.<br />Interactions entre activités et milieu (pressions - effets cumulés).
+      
+      # feature item loop
+    - title : Cartographie et (Géo)visualisations interactives
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : Cartographie selon plusieurs niveaux informatifs.<br /> Cartographie dynamique et temporelle.
+ 
+      
+

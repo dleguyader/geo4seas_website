@@ -1,0 +1,21 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Contact Us
+  subtitle : Contact Details
+  content : You have specific expectations or are thinking about a project. Let us know your needs in terms of collaboration.
+  form_action: "https://formspree.io/meqrjder" #contact form works with https://formspree.io
+  map:
+    enable : true
+
+    
+  contact_details :
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "3 Venelle de la Tour d'Auvergne, 29480 Le Relecq-Kerhuon, France"
+      
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "Phone: +336-64-426-793"
+      
+
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Email: damien.leguyader@geo4seas.com"

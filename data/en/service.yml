@@ -1,0 +1,62 @@
+service:
+  enable : true
+  title : Our Services
+  service_item :
+
+   
+    # service item loop
+    - name : Maritime transportation
+      icon : fl-sea-ship-with-containers
+      content : Spatial and temporal characterisation of maritime transportation (cargo, tanker and passenger)  based on archived AIS (*Automatic Identification System*) data analysis.
+      link: "services/1-shipping/"
+      
+    # service item loop
+    - name : Professionnal fishing
+      icon : fl-fishing-boat-1
+      content : Identification of fishing zones and characterisation of the fishing intensity based on heterogeneous data (regulatory zoning, key-informants'data, AIS, landings data, etc...).
+      link: "services/2-fishing/"
+ 
+    # service item loop  
+    - name : Leisure activities
+      icon : fl-boat # themify icon pack : https://themify.me/themify-icons
+      content : Spatialization and quantification of leisure activities distibution in the coastal zone based on heterogeneous data (regulatory zoning, key-informants'data, count data, etc...).
+      link: "services/3-leisure/"
+  
+
+    # service item loop
+    - name : Uses conflicts
+      icon : fl-flash
+      content : Characterization of uses conflicts related to space by taking acount spatio-temporal interactions between activities.
+      link: "services/4-conflicts/" 
+
+    # service item loop
+    - name : Cumulative impacts
+      icon : fl-interaction2 #fl-atom # flaticon
+      content : Assessment of pressures and cumulative impacts induced by human activities on natural marine and coastal environments.
+      link: "services/5-cumimpact/" 
+      
+    # service item loop
+    - name: Marxan Analysis 
+      icon: fl-gear
+      content: Spatial optimization analyses in the framework of Systematic Conservation Planning (SCP).
+      link: "services/6-scp/"  
+      
+    
+    # service item loop
+    - name : Offshore Wind Farms
+      icon : fl-wind-energy # flaticon
+      content : Identification of potential facility sites that minimize interactions with other activities and pressures on ecosystem components (R&D).
+      link: "services/7-windoptim/" 
+
+    # service item loop
+    - name : R &amp; D
+      icon : ai-ideas-repec # themify icon pack : https://themify.me/themify-icons
+      content : Modelling of the marine and coastal socio-system using a geomatics approach. Collaboration with multidisciplinary research teams.
+      link: "services/8-rd/"
+      
+    # service item loop
+    - name : Teaching
+      icon : fl-class
+      content : Courses (beginner and advanced levels) in GIS and cartography, programming with R, statistical and spatio-temporal analysis, uses conflicts and MSP.
+      link: "services/9-courses/"
+      

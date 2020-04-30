@@ -1,0 +1,2 @@
+convert sandy-seabed_crop.jpg sandy-seabed_crop.webp
+convert water_crop.jpg water_crop.webp

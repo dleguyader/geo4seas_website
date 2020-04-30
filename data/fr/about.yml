@@ -1,0 +1,24 @@
+############################# About ###################################
+about:
+  enable : true
+  title : Présentation
+  about_item :
+  - icon : fl-globe
+    title : Géomatique
+    content : <em><strong>Geo4</strong><strong><font color=#57CBCC>Seas</font></strong></em> est un bureau d'études spécialisé dans la production, l’analyse, la modélisation et la représentation de l’information géographique, pour le développement durable des territoires et des ressources.<br /> <br /> Forts de plus de 12 années d’expérience, nous avons développé une solide expertise en géomatique et géographie permettant de proposer des solutions aux industriels, opérateurs publics (gestionnaires d’espaces naturels sensibles, collectivités territoriales, services de l’Etat), organisations professionnelles et bureaux d’études environnementales.
+    
+
+  - icon :  fl-tactic # ti-world
+    title : Planification et Gestion en milieu marin
+    content : Décrire, analyser et comprendre les interactions complexes intervenant entre les activités anthropiques et les écosystèmes constituent des enjeux majeurs pour la planification et de la gestion des espaces marins et littoraux.<br /> <br />  <em><strong>Geo4</strong><strong><font color=#57CBCC>Seas</font></strong></em> propose une gamme de solutions géomatiques permettant de disposer d’une connaissance réaliste et dynamique du déroulement des activités maritimes, de leurs interactions potentielles entre elles et de leurs effets multiples sur le milieu. <br /> <br /> En partenariat avec le monde de la recherche, <em><strong>Geo4</strong><strong><font color=#57CBCC>Seas</font></strong></em> contribue à la modélisation du socio-système marin et côtier dans une perspective d’aide à la planification et la gestion.
+
+
+
+
+ # - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
+  #  title : Milieu marin
+   # content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+
+  #- icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+   # title : Recherche et Développement
+    #content : eos provident laborum eum dignissimos.

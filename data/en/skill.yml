@@ -1,0 +1,39 @@
+################################# Skill ##################################
+skill:
+  enable : true
+  title : Our Skills
+  subtitle : We are skilled in a wide range of tools dedicated to geomatics and specific to human geography.
+  content : We favour a reproducible approach by privileging the use of free and open source softwares. Depending on your needs, we also propose solutions via proprietary software.
+  skill_item :
+    # skill item loop
+    - name :  Geographic Information Systems (QGIS, GRASS, ArcGis)
+      percent : 100%
+      
+    # skill item loop
+    - name :  Databases (PostgreSQL/PostGIS, SQLite, MS Access)
+      percent : 95%
+      
+    # skill item loop
+    - name :  Programming (R, Python)
+      percent : 95%
+      
+
+    # skill item loop
+    - name :  Dynamic applications for the web (shiny, leaflet, CartoDB)
+      percent : 90%
+    
+    # skill item loop
+    - name :  Développement (Github)
+      percent : 80%
+      
+    # skill item loop
+    - name :  Systematic conservation planning (Marxan, Gurobi)
+      percent : 90%
+    
+        # skill item loop
+    - name :  Semi-directive interviews 
+      percent : 90%
+      
+    # skill item loop
+    - name :  Focus group animation
+      percent : 90%
