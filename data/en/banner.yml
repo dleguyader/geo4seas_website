@@ -1,8 +1,8 @@
 ############################### Banner ################################
 banner:
   enable : true
-  bg_image_webp : images/backgrounds/my_lines3.webp #"images/backgrounds/test.webp" # "images/backgrounds/test.webp"
-  bg_image :  images/backgrounds/my_lines3.png #"images/backgrounds/test.jpg" #"images/backgrounds/hero-area.jpg"
+  bg_image_webp : "images/backgrounds/my_lines4.webp" #"images/backgrounds/test.webp" # "images/backgrounds/test.webp"
+  bg_image :  "images/backgrounds/my_lines4.png" #"images/backgrounds/test.jpg" #"images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "[Geography]  [Geomatics] [Marine environment]"
   content : "Services and expertise in geography and geomatics specialised in maritime spatial planning."
