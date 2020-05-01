@@ -19,7 +19,3 @@
 [context.branch-deploy]
   command = "hugo -b $DEPLOY_PRIME_URL --buildFuture"
 
-[build]
-  command = "yarn build && cd functions/node-fetch && yarn"
-  functions = "functions"
-  publish = "dist
