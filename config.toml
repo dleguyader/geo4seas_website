@@ -19,12 +19,11 @@ enableRobotsTXT = true
 canonifyURLs = true
 enableEmoji = true
 
-
+# Pour le probleme de Access-Control-Allow-Origin
 [[headers]]
-  # Define which paths this specific [[headers]] block will cover.
-  for = "/*"
-    [headers.values]
-    Access-Control-Allow-Origin = "*"
+for = "/*"
+[headers.values]
+Access-Control-Allow-Origin = "*" # https://geo4seas.netlify.app
 
 
 # Configure BlackFriday Markdown rendering.
