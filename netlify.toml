@@ -1,9 +1,6 @@
 [build]
   publish = "public"
   command = "hugo"
-  command = "yarn build && cd functions/node-fetch && yarn"
-  functions = "functions"
-  publish = "dist
 
 [context.production.environment]
   HUGO_VERSION = "0.68.3"
@@ -22,4 +19,7 @@
 [context.branch-deploy]
   command = "hugo -b $DEPLOY_PRIME_URL --buildFuture"
 
-
+[build]
+  command = "yarn build && cd functions/node-fetch && yarn"
+  functions = "functions"
+  publish = "dist
