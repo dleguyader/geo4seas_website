@@ -182,10 +182,9 @@ preloader = "images/logo_geo4seas_fond_sombre_nom_ligne_200x42.svg"
 # google map
 [params.map]
 enable = true
-#gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCKZeOfoHzIzoqMWrsrzaVsDtjMzB1ysGo&libraries=places"
+
 
 gmap_api = "https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
-#api_key = "pk.eyJ1IjoiZGFtaWVubGVnIiwiYSI6ImNrMDNzMDBuODF4dnQzaHByZ2w5M2JqaGsifQ.ogj06UEw_TQA3qlU1fgd0A"
 #gmap_api = "http://umap.openstreetmap.fr/en/map/untitled-map_450752#6/47.517/2.395"
 #map_latitude = "48.4023305"
 #map_longitude = "-4.4125471"

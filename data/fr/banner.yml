@@ -1,8 +1,8 @@
 ############################### Banner ################################
 banner:
   enable : true
-  bg_image_webp : "images/backgrounds/my_lines4.webp" #"images/backgrounds/test.webp" # "images/backgrounds/test.webp"
-  bg_image :  "images/backgrounds/my_lines4.png" #"images/backgrounds/test.jpg" #"images/backgrounds/hero-area.jpg"
+  bg_image_webp :  "images/backgrounds/my_lines3.webp" #"images/backgrounds/sandy-seabed.webp" #"images/backgrounds/Uber-kepler.gl-1.webp"  # # "images/backgrounds/test.webp" # "images/backgrounds/test.webp"
+  bg_image :  "images/backgrounds/my_lines3.png" #"images/backgrounds/sandy-seabed.jpg" # #"images/backgrounds/Uber-kepler.gl-1.png" # "images/backgrounds/my_lines4.png" #"images/backgrounds/test.jpg" #"images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "[Géographie]  [Géomatique] [milieu marin]"
   content : "Services et conseils en géographie et géomatique spécialisés dans la planification de l'espace maritime."
