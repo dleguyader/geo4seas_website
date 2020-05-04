@@ -5,8 +5,8 @@ team:
   team_member :
     # team member loop
     - name : Damien Le Guyader
-      image_webp : #images/team/team-1.webp
-      image : #images/team/team-1.jpg
+      image_webp : images/team/id_dlg_si_co.webp
+      image : images/team/id_dlg_si_co.jpeg
       designation : Dirigeant/Créateur
       content : "Titulaire d'un doctorat de géographie préparé au sein du laboratoire [LETG-Brest (UMR 6554 CNRS)](https://letg.cnrs.fr/) à l'[IUEM](https://www-iuem.univ-brest.fr/), il obtient en 2013 le prix de thèse du Groupement de Recherche [« Méthodes et Applications pour la Géomatique et l’Information Spatiale » (GDR MAGIS)](http://gdr-magis.imag.fr/)."
       social :
