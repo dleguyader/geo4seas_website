@@ -5,8 +5,8 @@ portfolio:
   portfolio_item :
     # portfolio item loop
     - name : TRAFIC
-      image : images/portfolio/trafic.png
-      image_webp : images/portfolio/trafic.webp
+      image : images/portfolio/traffic.png
+      image_webp : images/portfolio/traffic.webp
       categories : ["Maritime transport", "AIS data"]
       content : aims to understand the interactions between maritime traffic/environment in the Caribbean.
       link : "projets/trafic"
