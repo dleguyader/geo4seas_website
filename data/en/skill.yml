@@ -24,7 +24,7 @@ skill:
     
     # skill item loop
     - name :  Développement (Github)
-      percent : 80%
+      percent : 90%
       
     # skill item loop
     - name :  Systematic conservation planning (Marxan, Gurobi)
