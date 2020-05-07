@@ -89,7 +89,6 @@ link = "plugins/lazy-load/lozad.min.js"
 link = "plugins/leaflet-map/leaflet.js"
 
 
-
 ############################# Navigation ##################################
 ## FR
 [[Languages.fr.menu.main]]

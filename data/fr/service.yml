@@ -10,54 +10,80 @@ service:
       icon : fl-sea-ship-with-containers
       content : Caractérisation spatiale et temporelle du transport maritime de charge (cargos, navires citernes) et de passagers à partir d'analyses de données AIS (*Automatic Identification System*) archivées.
       link: "services/1-shipping/"
+      button: 
+        enable : true
+        link : "services/1-shipping/"
       
     # service item loop
     - name : Pêche professionnelle
       icon : fl-fishing-boat-1
       content : Identification des zones de pêche et caractérisation de l'intensité de pratique par métier à partir de données hétérogènes (zonages réglementaires, données à dires d'acteurs, AIS, débarquements...).
       link: "services/2-fishing/"
+      button: 
+        enable : true
+        link : "services/2-fishing/"
  
     # service item loop  
     - name : Activités de loisir
       icon : fl-boat # themify icon pack : https://themify.me/themify-icons
       content : Spatialisation et quantification des activités de loisirs en mer et sur le littoral à partir de données hétérogènes (zonages réglementaires, à dires d'acteurs, données de comptages).
       link: "services/3-leisure/"
-  
+      button: 
+        enable : true
+        link : "services/3-leisure/"
 
     # service item loop
     - name : Conflits d'usages
       icon : fl-flash
       content : Caractérisation des conflits d'usages portant sur l'espace par les interactions spatio-temporelles entre activités.
       link: "services/4-conflicts/" 
+      button: 
+        enable : true
+        link : "services/4-conflicts/" 
 
     # service item loop
     - name : Impacts cumulés
       icon : fl-interaction2 #fl-atom # flaticon
       content : Evaluation des pressions et des impacts cumulés des activités humaines sur les milieux naturels marins et littoraux.
-      link: "services/5-cumimpact/" 
+      link: "services/5-cumimpact/"
+      button: 
+        enable : true
+        link : "services/5-cumimpact/"
       
     # service item loop
     - name: Analyses Marxan 
       icon: fl-gear
       content: Optimisation spatiale dans le cadre de la planification systématique de la conservation.
-      link: "services/6-scp/"  
+      link: "services/6-scp/"
+      button: 
+        enable : true
+        link : "services/6-scp/"
       
     
     # service item loop
     - name : Eolien offshore
       icon : fl-wind-energy # flaticon
       content : Identification des sites potentiels d'implantation minimisant les interactions avec les autres activités et les pressions sur l'écosystème (R&D).
-      link: "services/7-windoptim/" 
+      link: "services/7-windoptim/"
+      button: 
+        enable : true
+        link : "services/7-windoptim/"
 
     # service item loop
     - name : R &amp; D
       icon : ai-ideas-repec # themify icon pack : https://themify.me/themify-icons
       content : Modélisation du socio-système marin et littoral par une approche géomatique. Collaboration avec des équipes de recherche pluri-disciplinaires.
       link: "services/8-rd/"
+      button: 
+        enable : true
+        link : "services/8-rd/"
       
     # service item loop
     - name : Formation
       icon : fl-class
       content : Cours (niveaux débutants et confirmés) en SIG et cartographie, programmation avec R, analyses statistiques et spatio-temporelles, conflits d'usages et PSM.
       link: "services/9-courses/"
+      button: 
+        enable : true
+        link : "services/9-courses/"
       

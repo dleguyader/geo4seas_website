@@ -2,6 +2,8 @@
   translation: Actualités
 - id: readMore
   translation: Lire la suite
+- id: more
+  translation: Plus
 - id: viewAllPost
   translation: Voir tous les articles
 - id: share
