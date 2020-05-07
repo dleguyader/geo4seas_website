@@ -381,8 +381,13 @@ a:hover {
   color: #57cbcc;
 }
 
+
 .slick-slide {
   outline: none;
+  
+  .slick-prev:before, .slick-next:before {
+    color: black;
+  }
 }
 
 /* CSS mfp-with-zoom class */
