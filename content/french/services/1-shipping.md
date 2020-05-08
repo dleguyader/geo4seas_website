@@ -10,7 +10,7 @@ Depuis plus de 12 ans, nous avons développé une expertise sur la caractérisat
 
 > Le système AIS a pour objectif l’aide à la sécurité de la navigation. Il permet une géolocalisation en temps réel des navires émetteurs.
 
-L'analyse de données AIS archivées porte sur un large spectre de thématiques incluant l’ingénierie et la gestion des transport, le trafic maritime,
+L'analyse de données AIS archivées porte sur un large spectre de thématiques incluant l’ingénierie et la gestion des transports, le trafic maritime,
 l’économie maritime, la gestion des pêches, les analyses de risques, l’optimisation des routes des navires et les impacts écologiques du transport maritime (mesure des émissions sonores, mesure de polluants, évaluation du risque de collision avec des cétacés). Plus globalement, l'AIS peut contribuer à la mise en oeuvre de politiques publiques notamment en termes de planification.
 
 Nos méthodes, développées initialement dans un cadre de recherche, ont été portées dans divers contextes opérationnels à de nombreuses reprises. Mobilisant des technologies fiables et robustes, nos points forts consistent à proposer différents services (Le Guyader *et al.*, 2012; Le Tixerant *et al.*, 2017; Le Guyader, 2019) : 
@@ -24,7 +24,7 @@ Nos méthodes, développées initialement dans un cadre de recherche, ont été 
 
 >En lien avec nos travaux de R&D, nous vous proposons d'adapter les analyses selon vos besoins spécifiques (caractérisation du ripage d'ancre des navires au mouillage, identification des distances minimales d'approche de zones sensibles ...). 
 
-Ces services peuvent être proposés pour tout autres données décrivant le déplacement d'objets mobiles (signaux de géolocalisation de type GPS, Galileo, Argos).
+Ces services peuvent être proposés pour toutes autres données décrivant le déplacement d'objets mobiles (signaux de géolocalisation de type GPS, Galileo, Argos).
 
 
 

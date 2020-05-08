@@ -5,10 +5,10 @@ image: images/portfolio/traffic.png
 image_webp: images/portfolio/traffic.webp
 ---
 
-### TRAnsport maritime, Fréquentation portuaire et Inégalités environnementales dans les Caraïbes
+### Transport maritime, fréquentation portuaire et inégalités environnementales dans les Caraïbes
 
 
-Ce projet vise la production d'une donnée socle sur la connaissance du trafic maritime, afin de mieux comprendre les interactions entre navigation maritime et environnement à deux échelles complémentaires, celle des espaces marins parcourus (Bassin Caribéen) et celle des espaces portuaires fréquentés (ports français des Antilles). Il s'incrit dans les travaux menés depuis 2016 dans l’[Observatoire Hommes-Milieux Littoral Caraïbe](https://ohm-littoral-caraibe.in2p3.fr/) (Labex DRIIHM). Ce projet est porté par l’[UMR LETG](https://letg.cnrs.fr/).
+Ce projet vise la production d'une donnée socle sur la connaissance du trafic maritime, afin de mieux comprendre les interactions entre navigation maritime et environnement à deux échelles complémentaires, celle des espaces marins parcourus (Bassin Caribéen) et celle des espaces portuaires fréquentés (ports français des Antilles). Il s'inscrit dans les travaux menés depuis 2016 dans l’[Observatoire Hommes-Milieux Littoral Caraïbe](https://ohm-littoral-caraibe.in2p3.fr/) (Labex DRIIHM). Ce projet est porté par l’[UMR LETG](https://letg.cnrs.fr/).
 
 
 > Geo4Seas contribue à ce projet par l'apport de son expertise en géomatique, puis par l'analyse multi-scalaire du trafic maritime dans le Bassin Caraïbe, à partir des données AIS (Automatic Identification System).

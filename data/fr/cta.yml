@@ -7,5 +7,5 @@ cta:
   content : "Nous nous engageons dans un travail de qualité."
   button:
     enable : true
-    label : "Un projet ? Contacter nous."
+    label : "Un projet ? Contactez nous."
     link : "#contact"

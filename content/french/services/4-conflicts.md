@@ -1,6 +1,6 @@
 ---
 description: services
-title: Conflicts d'usages pour l'espace
+title: Conflits d'usages pour l'espace
 layout: empty
 image: images/portfolio/msp_ehler_2011.png
 image_webp: images/portfolio/msp_ehler_2011.webp

@@ -1,6 +1,6 @@
 ---
 description: services
-title: Activités de loisirs
+title: Activités de loisir
 layout: empty
 image: images/portfolio/leisure1.png
 image_webp: images/portfolio/leisure1.webp

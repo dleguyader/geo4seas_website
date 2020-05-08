@@ -8,7 +8,7 @@ image_webp: images/portfolio/ec_2019.webp
 
 Les activités humaines en mer et sur le littoral, consommatrices d’espaces et de ressources, interagissent avec les écosystèmes dont elles peuvent modifier la structure et le fonctionnement.
 
-Depuis quelques années, les travaux portant sur la compréhension et la cartographie des effets cumulés des activités humaines sur les écosystèmes marins connaissent un fort essor et gagnent en pertinence au regard de la nécessité des évaluations associées aux approches écosystémiques préconisées par les politiques de gestion des ressources naturelles. Depuis l’évaluation séminale des effets cumulés en milieu marin menée par Halpern *et al.* (2008) à l’échelle globale, des recherches sur ce thème ont été poursuivies dans différentes parties du globe et la résolution spatiale des évaluations a augmentée. Néanmoins, leur transposition à une échelle locale de gestion et intégrant diverses activités dans leur dimensions temporelles reste inédite à notre connaissance.
+Depuis quelques années, les travaux portant sur la compréhension et la cartographie des effets cumulés des activités humaines sur les écosystèmes marins connaissent un fort essor et gagnent en pertinence au regard de la nécessité des évaluations associées aux approches écosystémiques préconisées par les politiques de gestion des ressources naturelles. Depuis l’évaluation séminale des effets cumulés en milieu marin menée par Halpern *et al.* (2008) à l’échelle globale, des recherches sur ce thème ont été poursuivies dans différentes parties du globe et la résolution spatiale des évaluations a augmenté. Néanmoins, leur transposition à une échelle locale de gestion et intégrant diverses activités dans leur dimensions temporelles reste inédite à notre connaissance.
 
 > Mise au point par Halpern et al. (2008), l’évaluation des pressions et des effets cumulés mobilise une méthode d’analyse spatiale et quantitative. Elle considère les effets cumulés potentiels comme la résultante de pressions anthropiques s’exerçant sur des composantes de l'écosystème.
 
@@ -16,7 +16,7 @@ Depuis quelques années, les travaux portant sur la compréhension et la cartogr
 Geo4Seas a développé un savoir-faire dans la spatialisation et quantification des pressions et effets cumulés (Le Guyader *et al.*, 2018) :
 - à l’échelle d’une scène de gestion (Aire Marine Protégée),
 - en tenant compte de la cooccurrence (dans l’espace et dans le temps) des pressions et des composantes de l’écosystème,
-- en organisant des ateliers permettant la co-construction des informations manquantes à dires d'expert,
+- en organisant des ateliers permettant la co-construction des informations manquantes à dires d'experts,
 - en caractérisant les incertitudes relatives à l'analyse, 
 - en proposant des outils d'exploration des données et résulats produits.
 

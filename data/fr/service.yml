@@ -26,7 +26,7 @@ service:
     # service item loop  
     - name : Activités de loisir
       icon : fl-boat # themify icon pack : https://themify.me/themify-icons
-      content : Spatialisation et quantification des activités de loisirs en mer et sur le littoral à partir de données hétérogènes (zonages réglementaires, à dires d'acteurs, données de comptages).
+      content : Spatialisation et quantification des activités de loisir en mer et sur le littoral à partir de données hétérogènes (zonages réglementaires, à dires d'acteurs, données de comptages).
       link: "services/3-leisure/"
       button: 
         enable : true
