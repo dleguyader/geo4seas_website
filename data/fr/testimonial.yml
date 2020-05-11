@@ -26,7 +26,7 @@ testimonial:
       image : images/client/logo_fem_si.jpg
       image_webp : images/client/logo_fem.webp
       date : 
-      content : France Energie Marine
+      content : France Energies Marines
     
         # testimonial item loop
     - name : 
