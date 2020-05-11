@@ -216,7 +216,8 @@ gmap_api = "https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
 
 [[params.social]]
 icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
-link = "//linkedin.com/in/geo4seas"
+link = "//linkedin.com/company/geo4seas"
+
 
 #[[params.social]]
 #icon = "ai-orcid"
