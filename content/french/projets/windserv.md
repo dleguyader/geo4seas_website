@@ -14,4 +14,4 @@ Le projet WindServ propose d'évaluer les services écosystémiques liés à l'�
 
 Ce projet bénéficie d'une aide de l’Agence Nationale de la Recherche au titre du programme Investissements d’Avenir et de France Energies Marines.
 
-[Plus d'informations prochainement sur le site de France Energies Marines](https://www.france-energies-marines.org/)
+[Plus d'informations sur le site de France Energies Marines](https://www.france-energies-marines.org/R-D/Projets-en-cours/WINDSERV)

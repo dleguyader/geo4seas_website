@@ -14,4 +14,4 @@ The WindServ project proposes to assess the ecosystem services related to offsho
 
 This project is supported by the French National Research Agency under the Investissements d'Avenir programme and by France Energies Marines.
 
-[More informations soon on the France Energies Marines website](https://en.france-energies-marines.org/R-D)
+[More informations on the France Energies Marines website](https://en.france-energies-marines.org/R-D/Projects-in-progress/WINDSERV)
