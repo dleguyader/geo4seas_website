@@ -13,7 +13,7 @@ image_webp: images/portfolio/empty.webp
 Geo4Seas   
 Responsable: Damien Le Guyader   
 Legal statut : Independent contractor (‘Travailleur indépendant’ in French Law)  
-SIRET: XXXXX   
+SIRET: 884 827 304 00012   
 Adress: 3 venelle de la Tour d'Auvergne 29480 Le Relecq-Kerhuon France   
 Email : damien.leguyader@geo4seas.com
 
@@ -48,8 +48,8 @@ Access to the geo4seas.com site gives you the right to private and non-exclusive
 
 #####  HOSTING
 
-Host : OVH  
-Adress : 2 RUE KELLERMANN, 59100 ROUBAIX, FRANCE
+Host : Netlify  
+
 
  
 ![empty](../../images/portfolio/empty.webp)
