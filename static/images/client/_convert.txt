@@ -32,3 +32,10 @@ convert logo_ohm_lc_si.png logo_ohm_lc.webp
 
 Convert logo_Fondation_de_France.png -resize 300x300 logo_Fondation_de_France_si.png
 convert logo_Fondation_de_France_si.png logo_Fondation_de_France.webp
+
+
+convert logo_PNM_Arcachon_m.png -resize 300x300 logo_PNM_Arcachon_m.png
+convert logo_PNM_Arcachon_m.png logo_PNM_Arcachon_m.webp
+
+convert logo_ofb.png -resize 300x300 logo_ofb.png
+convert logo_ofb.png logo_ofb.webp

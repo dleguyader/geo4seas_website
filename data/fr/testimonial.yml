@@ -62,3 +62,17 @@ testimonial:
       image_webp : images/client/logo_ulco.webp
       date : 
       content : ULCO
+      
+        # testimonial item loop
+    - name : 
+      image : images/client/logo_PNM_Arcachon_m.jpg
+      image_webp : images/client/logo_PNM_Arcachon_m.webp
+      date : 
+      content : PNM du Bassin d'Arcachon
+      
+            # testimonial item loop
+    - name : 
+      image : images/client/logo_ofb.png
+      image_webp : images/client/logo_ofb.webp
+      date : 
+      content : Office français de la biodiversité
