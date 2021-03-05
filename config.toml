@@ -7,7 +7,7 @@ paginate = "6"
 draft=  false # if set to true, changes will not be published
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$", "public"]
 # post excerpt
-summaryLength = "15"
+summaryLength = "5"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language

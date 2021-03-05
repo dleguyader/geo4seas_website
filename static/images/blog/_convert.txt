@@ -1,0 +1,9 @@
+convert go.png -gravity center -crop 4:3 +repage go_ok.png
+convert go_ok.png -resize 733^x550 go_ok.png
+convert go_ok.png go_ok.webp
+
+convert harbours.png -gravity center -crop 4:3 +repage harbours_ok.png
+#convert harbours_ok.png -resize 733^x550 harbours_ok.png
+convert harbours_ok.png -resize 489^x367 harbours_ok.png
+identify -format "%wx%h" harbours_ok.png
+convert harbours_ok.png harbours_ok.webp

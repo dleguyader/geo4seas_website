@@ -1,0 +1,15 @@
+---
+title: "A Geo4Seas map on the front page of the French National Center for Scientific Research (CNRS)"
+slug: une-cnrs
+author: Damien Le Guyader
+date: '2021-03-02'
+image: images/blog/harbours_ok.png
+image_webp: images/blog/harbours_ok.webp
+output:
+  blogdown::html_page:
+    toc: false
+---
+
+> View the article online: [https://is.gd/cRkSr0](https://is.gd/cRkSr0).       
+
+This work is the result of an ongoing collaboration as part of the multidisciplinary research project [TRAFIC](https://www.geo4seas.com/en/projets/trafic/) (Fondation de France - Human Environment Observatory Littoral Caraïbes).

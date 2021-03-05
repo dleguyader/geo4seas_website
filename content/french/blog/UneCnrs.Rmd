@@ -1,0 +1,15 @@
+---
+title: "Une carte de Geo4Seas à la une du CNRS"
+slug: une-cnrs
+author: Damien Le Guyader
+date: '2021-03-02'
+image: images/blog/harbours_ok.png
+image_webp: images/blog/harbours_ok.webp
+output:
+  blogdown::html_page:
+    toc: false
+---
+
+> Voir l'article en ligne: [https://is.gd/cRkSr0](https://is.gd/cRkSr0).       
+
+Ce travail est issu d'une collaboration en cours dans le cadre du projet de recherche pluridisciplinaire [TRAFIC](https://www.geo4seas.com/projets/trafic/) (Fondation de France - Observatoire Homme Milieu Littoral Caraïbes).

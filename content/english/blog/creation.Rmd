@@ -3,8 +3,8 @@ title: "Creation of Geo4Seas consulting"
 slug: creation-geo4seass
 author: Damien Le Guyader
 date: '2020-05-07'
-image: images/blog/go.png
-image_webp: images/blog/go.webp
+image: images/blog/go_ok.png
+image_webp: images/blog/go_ok.webp
 output:
   blogdown::html_page:
     toc: false
