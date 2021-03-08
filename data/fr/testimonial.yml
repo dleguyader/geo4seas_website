@@ -76,3 +76,10 @@ testimonial:
       image_webp : images/client/logo_ofb.webp
       date : 
       content : Office français de la biodiversité
+      
+                # testimonial item loop
+    - name : 
+      image : images/client/logo_agoa.png
+      image_webp : images/client/logo_agoa.webp
+      date : 
+      content : Sanctuaire Agoa
