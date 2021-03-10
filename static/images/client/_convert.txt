@@ -39,3 +39,6 @@ convert logo_PNM_Arcachon_m.png logo_PNM_Arcachon_m.webp
 
 convert logo_ofb.png -resize 300x300 logo_ofb.png
 convert logo_ofb.png logo_ofb.webp
+
+convert logo_agoa.png -resize 300x300 logo_agoa.png
+convert logo_agoa.png logo_agoa.webp
