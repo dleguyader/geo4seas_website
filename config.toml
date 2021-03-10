@@ -251,7 +251,7 @@ languageCode = "fr-fr"
 contentDir = "content/french"
 weight = 1
 home = "Accueil"
-copyright = "Copyright &copy; [Geo4Seas](https://geo4seas.com/), 2021 | [Mentions légales](legal/mentionsfr/)"
+copyright = "&copy; [Geo4Seas](https://geo4seas.com/), 2021 | [Mentions légales](legal/mentionsfr/)"
 
 ################################ English Language ########################
 [Languages.en]
@@ -260,7 +260,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 2
 home = "Home"
-copyright = "Copyright &copy; [Geo4Seas](https://geo4seas.com/), 2021 | [Legal mentions](/legal/mentionsen/)"
+copyright = "&copy; [Geo4Seas](https://geo4seas.com/), 2021 | [Legal mentions](/legal/mentionsen/)"
 
 
 
