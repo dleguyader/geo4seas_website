@@ -16,5 +16,5 @@
   translation: Submit
 - id: all
   translation: All
-- id: copyright
-  translation: © [Geo4Seas](https://geo4seas.com/), 2020 | [Legal mentions](/legal/mentionsen/)
+# - id: copyright
+#   translation: © [Geo4Seas](https://geo4seas.com/), 2020 | [Legal mentions](/legal/mentionsen/)

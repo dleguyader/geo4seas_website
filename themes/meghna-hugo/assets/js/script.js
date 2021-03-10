@@ -1,13 +1,13 @@
+/* ========================================================================= */
+/*	Page Preloader
+/* ========================================================================= */
+
+$(window).on('load', function () {
+	$('.preloader').fadeOut(100);
+});
+
 jQuery(function ($) {
 	"use strict";
-
-	/* ========================================================================= */
-	/*	Page Preloader
-	/* ========================================================================= */
-
-	$(window).on('load', function () {
-		$('.preloader').fadeOut(100);
-	});
 
 	/* ========================================================================= */
 	/*	lazy load initialize
@@ -63,10 +63,9 @@ jQuery(function ($) {
 		// infinite: true,
 		// arrows: false,
 		// autoplay: true,
-		// slidesToShow: 3,
-		// autoplaySpeed: 2000
+		// autoplaySpeed: 4000
 	// });
-
+	
 	$("#testimonials").slick({
 	  dots: true,
 	  infinite: false,
@@ -102,8 +101,8 @@ jQuery(function ($) {
 		// instead of a settings object
 	  ]
 	});
-
-
+	
+	
 /* ========================================================================= */
 	/*	Animated section
 	/* ========================================================================= */
@@ -128,6 +127,16 @@ jQuery(function ($) {
 	/* ========================================================================= */
 	/*	animation scroll js
 	/* ========================================================================= */
+
+
+
+	function myFunction(x) {
+		if (x.matches) {
+			var topOf = 50
+		} else {
+			var topOf = 350
+		}
+	}
 
 	var html_body = $('html, body');
 	$('nav a, .page-scroll').on('click', function () { //use page-scroll class in any HTML tag for scrolling

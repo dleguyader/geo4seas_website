@@ -8,10 +8,10 @@
   HUGO_ENABLEGITINFO = "true"
   
 [context.branch-deploy.environment]
-  HUGO_VERSION = "0.79"
+  HUGO_VERSION = "0.79.0"
 
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.79"
+  HUGO_VERSION = "0.79.0"
   
 [context.deploy-preview]
   command = "hugo -b $DEPLOY_PRIME_URL --buildFuture"

@@ -16,7 +16,7 @@
   translation: Soumettre
 - id: all
   translation: Tous
-- id: copyright
-  translation: © [Geo4Seas](https://geo4seas.com/), 2020 | [Mentions légales](legal/mentionsfr/)
+# - id: copyright
+#   translation: © [Geo4Seas](https://geo4seas.com/), 2020 | [Mentions légales](legal/mentionsfr/)
 - id: your name
   translation: Votre nom

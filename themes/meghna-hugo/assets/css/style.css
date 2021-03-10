@@ -42,8 +42,6 @@ pre {
   color: #e7eaed;/*text origin : #afbac4 _____________________________*/
 }
 
-
-
 /*=================================================================
   Basic Setup
 ==================================================================*/
@@ -65,6 +63,7 @@ hr {
 figure {
   margin: 0;
 }
+
 
 /*Rajout pour les images*/
 
@@ -109,7 +108,6 @@ a:focus,
 a:hover {
   color: #6CB670;
 }
-
 
 .kill-margin-bottom {
   margin-bottom: 0 !important;
@@ -326,9 +324,9 @@ a:hover {
 }
 
 .title h2 {
-  text-transform: capitalize; 
+  text-transform: capitalize;
   font-weight: 700;
-  font-size: 38px; 
+  font-size: 38px;
   color: #fff;
 }
 
@@ -380,7 +378,6 @@ a:hover {
 .header-bradcrumb a:hover {
   color: #57cbcc;
 }
-
 
 .slick-slide {
   outline: none;
@@ -505,11 +502,11 @@ a:hover {
 }
 
 .hero-area .block h1 {
-  font-size: 50px;          /* ORIGIN: 90px _____________________*/
+ font-size: 50px;          /* ORIGIN: 90px _____________________*/
   color: #fff;
   text-transform: capitalize;
   font-weight: 700;
-  margin-bottom: 20px; 
+  margin-bottom: 20px;
 }
 
 @media (max-width: 480px) {
@@ -736,14 +733,9 @@ a:hover {
   box-shadow: none;
 }
 
-.form-meghna input:hover,
-.form-meghna textarea:hover,
-#contact-submit:hover {
+.form-meghna input:hover, /* PEUT ETRE MODIF ICI*/
+.form-meghna textarea:hover {
   border-color: #57cbcc;
-}
-
-.form-meghna ::placeholder {
-  color: #ddd !important;
 }
 
 #contact-submit {
@@ -754,11 +746,18 @@ a:hover {
   margin: 0;
 }
 
+#contact-submit:hover {
+  border-color: #2c9091;
+  background-color: #2c9091;
+}
+
+.form-meghna ::placeholder {
+  color: #ddd !important;
+}
+
 .google-map #map-canvas {
   height: 400px;
 }
-
-
 
 .contact-info p {
   margin-bottom: 25px;
@@ -1022,6 +1021,7 @@ a:hover {
   transition: all 0.3s ease 0s;
 }
 
+
 /*=================================================================
   Services navigation: template: classe Single: Mon rajout
 ==================================================================*/
@@ -1054,6 +1054,9 @@ a:hover {
 
 
 
+
+
+
 /*=================================================================
   Our skills
 ==================================================================*/
@@ -1078,6 +1081,7 @@ a:hover {
 .skill-bar .progress .progress-bar {
   background: #57cbcc;
 }
+
 
 
 /*=================================================================
@@ -2357,4 +2361,19 @@ figcaption {
   display: block;
 }
 
-/*# sourceMappingURL=maps/style.css.map */
+/* cookie */
+.cookie-box {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  text-align: center;
+  padding: 1rem 2rem;
+  background: rgb(71, 71, 71);
+  transition: all .75s cubic-bezier(.19, 1, .22, 1);
+  color: #fdfdfd;
+}
+
+.cookie-box-hide {
+  display: none;
+}

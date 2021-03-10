@@ -178,6 +178,10 @@ enable = true
 preloader = "images/logo_geo4seas_fond_sombre_nom_ligne_200x42.svg"
 
 
+# cookies
+[params.cookies]
+enable = false
+expire_days = 2
 
 # google map
 [params.map]
@@ -247,6 +251,7 @@ languageCode = "fr-fr"
 contentDir = "content/french"
 weight = 1
 home = "Accueil"
+copyright = "Copyright &copy; [Geo4Seas](https://geo4seas.com/), 2021 | [Mentions légales](legal/mentionsfr/)"
 
 ################################ English Language ########################
 [Languages.en]
@@ -255,22 +260,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 2
 home = "Home"
-
-
-
-################################ 
-
-## NE MARCHE PAS
-## footer
-#[params.footer]
-  #  copyright = "© Geo4Seas"
-   # copyrightURL = "https://www.Geo4Seas.com"
-    #theme = "© Meghna Hugo by Themefisher"
-    #themeURL = "https://themes.gohugo.io/meghna-hugo/"
-    #themeLicense = "CC BY 3.0"
-    #themeLicenseURL = "https://creativecommons.org/licenses/by/3.0/"
-    #pageLicense = "CC BY-SA 4.0"
-    #pageLicenseURL = "https://creativecommons.org/licenses/by-sa/4.0/"
+copyright = "Copyright &copy; [Geo4Seas](https://geo4seas.com/), 2021 | [Legal mentions](/legal/mentionsen/)"
 
 
 

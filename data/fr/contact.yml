@@ -4,15 +4,15 @@ contact:
   title : Contactez nous
   subtitle : Pour nous joindre
   content : Vous avez des attentes spécifiques ou vous réfléchissez à un projet. Faîtes nous part de vos besoins en terme de collaboration.
-  form_action: "https://formspree.io/meqrjder" #contact form works with https://formspree.io
+  #form_action: "https://formspree.io/meqrjder" #contact form works with https://formspree.io
   map:
     enable : true
     #gmap_api : "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
     #map_latitude : 48.4023305
     #map_longitude: -4.4125471
-
-
-  contact_details :
+    
+  
+  contact_list :
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
       info : "3 Venelle de la Tour d'Auvergne, 29480 Le Relecq-Kerhuon, France"
       
@@ -22,3 +22,26 @@ contact:
 
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
       info : "Mél: damien.leguyader@geo4seas.com"
+
+# Contact form
+  contact_form:
+    enable : true
+    form_action : "#" #contact form works with https://formspree.io
+    name : "Votre Nom"
+    email : "Votre Email"
+    subject : "Sujet"
+    message : "Message"
+    submit : "Envoi"
+
+  # contact_details :
+  #   - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+  #     info : "3 Venelle de la Tour d'Auvergne, 29480 Le Relecq-Kerhuon, France"
+  #     
+  #   - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+  #     info : "Mobile: 06-64-42-67-93"
+  #     
+  # 
+  #   - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+  #     info : "Mél: damien.leguyader@geo4seas.com"
+      
+  
