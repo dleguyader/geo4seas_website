@@ -26,7 +26,7 @@ contact:
 # Contact form
   contact_form:
     enable : true
-    form_action : "{getform-endpoint}" #contact form works with https://formspree.io
+    form_action : "https://formspree.io/f/{form_id}" #contact form works with https://formspree.io
     name : "Votre Nom"
     email : "Votre Email"
     subject : "Sujet"
