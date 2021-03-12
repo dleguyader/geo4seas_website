@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL =  "/" #https://geo4seas.netlify.app/" # Doit finir avec un /
+baseURL =  "https://www.geo4seas.com/" #https://geo4seas.netlify.app/" # Doit finir avec un /
 title = "Geo4Seas"
 theme = "meghna-hugo"
 # post pagination
