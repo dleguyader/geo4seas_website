@@ -10,6 +10,6 @@ output:
     toc: false
 ---
 
-> Voir l'article en ligne: [https://is.gd/cRkSr0](https://is.gd/cRkSr0).       
+> Voir l'article en ligne: [https://www.cnrs.fr/fr/cnrsinfo/le-cnrs-structure-la-recherche-portuaire-francaise](https://www.cnrs.fr/fr/cnrsinfo/le-cnrs-structure-la-recherche-portuaire-francaise).       
 
 Ce travail est issu d'une collaboration en cours dans le cadre du projet de recherche pluridisciplinaire [TRAFIC](https://www.geo4seas.com/projets/trafic/) (Fondation de France - Observatoire Homme Milieu Littoral Caraïbes).
