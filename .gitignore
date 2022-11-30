@@ -3,5 +3,10 @@
 .Rprofile
 .RData
 .Ruserdata
-.DS_Store # For windows
-public/  
+.DS_Store
+Thumbs.db
+.hugo_build.lock
+
+/resources/
+
+/public/  

@@ -5,7 +5,7 @@ theme = "meghna-hugo"
 # post pagination
 paginate = "6"
 draft=  false # if set to true, changes will not be published
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$", "public"]
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "public"]
 # post excerpt
 summaryLength = "5"
 # disqus short name
@@ -251,7 +251,7 @@ languageCode = "fr-fr"
 contentDir = "content/french"
 weight = 1
 home = "Accueil"
-copyright = "&copy; [Geo4Seas](https://geo4seas.com/), 2021 | [Mentions légales](legal/mentionsfr/)"
+copyright = "&copy; [Geo4Seas](https://geo4seas.com/), 2022 | [Mentions légales](legal/mentionsfr/)"
 
 ################################ English Language ########################
 [Languages.en]
@@ -260,7 +260,12 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 2
 home = "Home"
-copyright = "&copy; [Geo4Seas](https://geo4seas.com/), 2021 | [Legal mentions](/legal/mentionsen/)"
+copyright = "&copy; [Geo4Seas](https://geo4seas.com/), 2022 | [Legal mentions](/legal/mentionsen/)"
 
 
 
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
