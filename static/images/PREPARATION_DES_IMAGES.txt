@@ -1,0 +1,8 @@
+LES IMAGES SONT STOCKEES DANS LE DOSSIER STATIC
+
+1- Reduction du poids avec https://tinypng.com/
+
+2- BASH
+convert img.png img.webp
+convert img.png -quality 50 img.webp
+

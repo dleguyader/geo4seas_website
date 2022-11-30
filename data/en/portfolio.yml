@@ -7,7 +7,7 @@ portfolio:
     - name : TRAFIC
       image : images/portfolio/traffic.png
       image_webp : images/portfolio/traffic.webp
-      categories : ["Maritime transport", "AIS data"]
+      categories : ["Maritime transport", "AIS data", "Marine mammals"]
       content : aims to understand the interactions between maritime traffic/environment in the Caribbean.
       link : "projets/trafic"
       
@@ -26,4 +26,21 @@ portfolio:
       categories : ["Offshore wind farms","Ecosystem services"]
       content : aims to assess the ecosystem services related to offshore wind farms.
       link : "projets/windserv"
+      
+    # portfolio item loop
+    - name : ZPF AGOA
+      image : images/portfolio/zpfagoa_com.png
+      image_webp : images/portfolio/zpfagoa_com.webp
+      categories : ["Maritime transport", "AIS data", "Marine mammals"]
+      content : feasibility study for the establishment of refuge areas in Martinique and Guadeloupe.
+      link : "projets/zpfagoa"
+      
+    # portfolio item loop
+    - name : AIS LC
+      image : images/portfolio/emsa_clip.png
+      image_webp : images/portfolio/emsa_clip.webp
+      categories : ["Maritime transport", "AIS data"]
+      content : evaluation of the relative quality of AIS data from the European Maritime Security Agency (EMSA) in the Caribbean.
+      link : "projets/emsa"
+      
       
