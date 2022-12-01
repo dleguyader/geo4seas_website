@@ -26,6 +26,12 @@ _________________________
 
 | Année 	| Intitulé                                                  	| Niveau                       	|
 |-------	|------------------------------------------------------------	|-----------------------------	|
+| 2022  	| Modélisation spatio-temporelle d’activités humaines en mer 	| M2 - UBO , Brest            	|
+|       	| Analyses spatiales avec R                                  	| M2 - UBO , Brest            	|
+| 2021  	| Modélisation spatio-temporelle d’activités humaines en mer 	| M2 - UBO , Brest            	|
+|       	| Analyses spatiales avec R                                  	| M2 - UBO , Brest            	|
+| 2020  	| Modélisation spatio-temporelle d’activités humaines en mer 	| M2 - UBO , Brest            	|
+|       	| Analyses spatiales avec R                                  	| M2 - UBO , Brest            	|
 | 2019  	| Modélisation spatio-temporelle d’activités humaines en mer 	| M2 - UBO , Brest            	|
 |       	| Analyses spatiales avec R                                  	| M2 - UBO , Brest            	|
 | 2018  	| [Maritime Spatial Planning and GIS](https://www.marinetraining.eu/content/emmcmsp-erasmus-mundus-master-course-maritime-spatial-planning)                          	| M1 - Erasmus Mundus, Açores 	|
