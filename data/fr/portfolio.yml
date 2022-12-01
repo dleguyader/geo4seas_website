@@ -8,7 +8,7 @@ portfolio:
     - name : TRAFIC
       image : images/portfolio/traffic.png
       image_webp : images/portfolio/traffic.webp
-      categories : ["Transport maritime", "Données AIS", "Mammifères marins"]
+      categories : ["Transport maritime", "Données AIS", "Mammifères marins", "R&D"]
       content : vise à comprendre les interactions entre trafic maritime/environnement dans les Caraïbes.
       link : "projets/trafic"
       
@@ -16,7 +16,7 @@ portfolio:
     - name : APPEAL
       image : images/portfolio/windfarms_co.jpg
       image_webp : images/portfolio/windfarms_co.webp
-      categories : ["Eolien en mer","Optimisation spatiale"]
+      categories : ["Eolien en mer","Optimisation spatiale", "R&D"]
       content : vise à identifier et mesurer les enjeux écologiques et socio-économiques posés par les projets EMR.
       link : "projets/appeal"
       
@@ -24,7 +24,7 @@ portfolio:
     - name : WINDSERV
       image : images/portfolio/nordsee.png
       image_webp : images/portfolio/nordsee.webp
-      categories : ["Eolien en mer","Services écosystémiques"]
+      categories : ["Eolien en mer","Services écosystémiques", "R&D"]
       content : vise à évaluer les services écosystémiques liés à l'éoliens offshore.
       link : "projets/windserv"
       
@@ -32,7 +32,7 @@ portfolio:
     - name : ZPF AGOA
       image : images/portfolio/zpfagoa_com.png
       image_webp : images/portfolio/zpfagoa_com.webp
-      categories : ["Transport maritime", "Données AIS", "Mammifères marins"]
+      categories : ["Transport maritime", "Données AIS", "Mammifères marins", "Prestation"]
       content : étude de faisabilité pour l’instauration de zones refuges en Martinique et en Guadeloupe.
       link : "projets/zpfagoa"
       
@@ -40,7 +40,7 @@ portfolio:
     - name : AIS LC
       image : images/portfolio/emsa_clip.jpg
       image_webp : images/portfolio/emsa_clip.webp
-      categories : ["Transport maritime", "Données AIS"]
+      categories : ["Transport maritime", "Données AIS", "Prestation"]
       content : évaluation de la qualité des données AIS de l'Agence Européenne de Sécurité Maritime (EMSA).
       link : "projets/emsa"
       

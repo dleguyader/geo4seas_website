@@ -7,7 +7,7 @@ portfolio:
     - name : TRAFIC
       image : images/portfolio/traffic.png
       image_webp : images/portfolio/traffic.webp
-      categories : ["Maritime transport", "AIS data", "Marine mammals"]
+      categories : ["Maritime transport", "AIS data", "Marine mammals", "R&D"]
       content : aims to understand the interactions between maritime traffic/environment in the Caribbean.
       link : "projets/trafic"
       
@@ -15,7 +15,7 @@ portfolio:
     - name : APPEAL
       image : images/portfolio/windfarms_co.jpg
       image_webp : images/portfolio/windfarms_co.webp
-      categories : ["Offshore wind farms","Spatial optimization"]
+      categories : ["Offshore wind farms","Spatial optimization", "R&D"]
       content : aims to identify and measure the ecological and socio-economic challenges related to MRE projects.
       link : "projets/appeal"
       
@@ -23,7 +23,7 @@ portfolio:
     - name : WINDSERV
       image : images/portfolio/nordsee.png
       image_webp : images/portfolio/nordsee.webp
-      categories : ["Offshore wind farms","Ecosystem services"]
+      categories : ["Offshore wind farms","Ecosystem services", "R&D"]
       content : aims to assess the ecosystem services related to offshore wind farms.
       link : "projets/windserv"
       
@@ -31,7 +31,7 @@ portfolio:
     - name : ZPF AGOA
       image : images/portfolio/zpfagoa_com.png
       image_webp : images/portfolio/zpfagoa_com.webp
-      categories : ["Maritime transport", "AIS data", "Marine mammals"]
+      categories : ["Maritime transport", "AIS data", "Marine mammals", "Service provision"]
       content : feasibility study for the establishment of refuge areas in Martinique and Guadeloupe.
       link : "projets/zpfagoa"
       
@@ -39,7 +39,7 @@ portfolio:
     - name : AIS LC
       image : images/portfolio/emsa_clip.png
       image_webp : images/portfolio/emsa_clip.webp
-      categories : ["Maritime transport", "AIS data"]
+      categories : ["Maritime transport", "AIS data", "Service provision"]
       content : evaluation of the relative quality of AIS data from the European Maritime Security Agency (EMSA) in the Caribbean.
       link : "projets/emsa"
       
