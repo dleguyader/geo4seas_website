@@ -38,9 +38,17 @@ portfolio:
       
       # portfolio item loop
     - name : AIS LC
-      image : images/portfolio/emsa_clip.jpg
+      image : images/portfolio/emsa_clip.png
       image_webp : images/portfolio/emsa_clip.webp
       categories : ["Transport maritime", "Données AIS", "Prestation"]
       content : évaluation de la qualité des données AIS de l'Agence Européenne de Sécurité Maritime (EMSA).
       link : "projets/emsa"
+      
+         # portfolio item loop
+    - name : AMO FREBA
+      image: images/portfolio/pnmba_cop_r.png
+      image_webp: images/portfolio/pnmba_cop_r.webp
+      categories : ["Activités maritimes", "Fréquentation", "Prestation"]
+      content : AMO pour le programme de suivi de la fréquentation maritime du Bassin d’Arcachon
+      link : "projets/amofreba"
       
