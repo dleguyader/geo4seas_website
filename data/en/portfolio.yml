@@ -42,5 +42,13 @@ portfolio:
       categories : ["Maritime transport", "AIS data", "Service provision"]
       content : evaluation of the relative quality of AIS data from the European Maritime Security Agency (EMSA) in the Caribbean.
       link : "projets/emsa"
+
+      # portfolio item loop
+    - name : AMO FREBA
+      image: images/portfolio/pnmba_cop_r.png
+      image_webp: images/portfolio/pnmba_cop_r.webp
+      categories : ["Maritime uses", "Monitoring", "R&D", "Service provision"]
+      content : AMO pour le programme de suivi de la fréquentation maritime du Bassin d’Arcachon
+      link : "projets/amofreba"
       
       

@@ -44,11 +44,11 @@ portfolio:
       content : évaluation de la qualité des données AIS de l'Agence Européenne de Sécurité Maritime (EMSA).
       link : "projets/emsa"
       
-         # portfolio item loop
+      # portfolio item loop
     - name : AMO FREBA
       image: images/portfolio/pnmba_cop_r.png
       image_webp: images/portfolio/pnmba_cop_r.webp
-      categories : ["Activités maritimes", "Fréquentation", "Prestation"]
+      categories : ["Activités maritimes", "Fréquentation", "Prestation", "R&D"]
       content : AMO pour le programme de suivi de la fréquentation maritime du Bassin d’Arcachon
       link : "projets/amofreba"
       
