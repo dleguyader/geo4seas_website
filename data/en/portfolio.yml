@@ -48,7 +48,7 @@ portfolio:
       image: images/portfolio/pnmba_cop_r.png
       image_webp: images/portfolio/pnmba_cop_r.webp
       categories : ["Maritime uses", "Monitoring", "R&D", "Service provision"]
-      content : AMO pour le programme de suivi de la fréquentation maritime du Bassin d’Arcachon
+      content : Project Management Assistance for the monitoring program of maritime uses in the Arcachon Basin
       link : "projets/amofreba"
       
       
