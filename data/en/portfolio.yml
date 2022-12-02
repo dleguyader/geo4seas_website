@@ -51,4 +51,20 @@ portfolio:
       content : Project Management Assistance for the monitoring program of maritime uses in the Arcachon Basin
       link : "projets/amofreba"
       
+      # portfolio item loop
+    - name : MAcUMBA
+      image: images/portfolio/macumba_patch_l.png
+      image_webp: images/portfolio/macumba_patch_l.webp
+      categories : ["Maritime uses", "Monitoring", "R&D", "Service provision"]
+      content : Modeling of Maritime Activities and Uses in the Arcachon Basin
+      link : "projets/macumba"
+      
+      # portfolio item loop
+    - name : ROA4
+      image: images/portfolio/roa4.png
+      image_webp: images/portfolio/roa4.webp
+      categories : ["Maritime uses", "Service provision","AIS data","Offshore wind farms"]
+      content : Caractérisation du trafic maritime et analyse du risque de croche
+      link : "projets/rao4"
+      
       

@@ -52,3 +52,20 @@ portfolio:
       content : AMO pour le programme de suivi de la fréquentation maritime du Bassin d’Arcachon
       link : "projets/amofreba"
       
+      # portfolio item loop
+    - name : MAcUMBA
+      image: images/portfolio/macumba_patch_l.png
+      image_webp: images/portfolio/macumba_patch_l.webp
+      categories : ["Activités maritimes", "Fréquentation", "Prestation", "R&D"]
+      content : Modélisation des activités et usages maritimes sur le bassin d’Arcachon
+      link : "projets/macumba"
+      
+      # portfolio item loop
+    - name : ROA4
+      image: images/portfolio/roa4.png
+      image_webp: images/portfolio/roa4.webp
+      categories : ["Activités maritimes","Données AIS", "Prestation", "Eolien en mer"]
+      content : Caractérisation du trafic maritime et analyse du risque de croche
+      link : "projets/rao4"
+      
+      
