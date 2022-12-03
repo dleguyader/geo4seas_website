@@ -62,7 +62,7 @@ portfolio:
       
       # portfolio item loop
     - name : ROA4
-      image: images/portfolio/roa.png
+      image: images/portfolio/rao.png
       image_webp: images/portfolio/roa.webp
       categories : ["Activités maritimes","Données AIS", "Prestation", "Eolien en mer"]
       content : Caractérisation du trafic maritime et analyse du risque de croche
