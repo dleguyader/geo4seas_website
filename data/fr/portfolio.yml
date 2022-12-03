@@ -8,7 +8,7 @@ portfolio:
     - name : TRAFIC
       image : images/portfolio/traffic.png
       image_webp : images/portfolio/traffic.webp
-      categories : ["Transport maritime", "Données AIS", "Mammifères marins", "R&D"]
+      categories : ["Données AIS", "Mammifères marins", "R&D", "Transport maritime"]
       content : vise à comprendre les interactions entre trafic maritime/environnement dans les Caraïbes.
       link : "projets/trafic"
       
@@ -24,7 +24,7 @@ portfolio:
     - name : WINDSERV
       image : images/portfolio/nordsee.png
       image_webp : images/portfolio/nordsee.webp
-      categories : ["Eolien en mer","Services écosystémiques", "R&D"]
+      categories : ["Eolien en mer", "Services écosystémiques", "R&D"]
       content : vise à évaluer les services écosystémiques liés à l'éoliens offshore.
       link : "projets/windserv"
       
@@ -32,7 +32,7 @@ portfolio:
     - name : ZPF AGOA
       image : images/portfolio/zpfagoa_com.png
       image_webp : images/portfolio/zpfagoa_com.webp
-      categories : ["Transport maritime", "Données AIS", "Mammifères marins", "Prestation"]
+      categories : ["Données AIS", "Mammifères marins", "Transport maritime", "Prestation"]
       content : étude de faisabilité pour l’instauration de zones refuges en Martinique et en Guadeloupe.
       link : "projets/zpfagoa"
       
@@ -40,7 +40,7 @@ portfolio:
     - name : AIS LC
       image : images/portfolio/emsa_clip.png
       image_webp : images/portfolio/emsa_clip.webp
-      categories : ["Transport maritime", "Données AIS", "Prestation"]
+      categories : [ "Données AIS","Transport maritime", "Prestation"]
       content : évaluation de la qualité des données AIS de l'Agence Européenne de Sécurité Maritime (EMSA).
       link : "projets/emsa"
       
@@ -64,7 +64,7 @@ portfolio:
     - name : ROA4
       image: images/portfolio/rao.png
       image_webp: images/portfolio/roa.webp
-      categories : ["Activités maritimes","Données AIS", "Prestation", "Eolien en mer"]
+      categories : ["Activités maritimes","Données AIS", "Eolien en mer", "Prestation"]
       content : Caractérisation du trafic maritime et analyse du risque de croche
       link : "projets/rao4"
       
