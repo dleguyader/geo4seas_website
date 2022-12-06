@@ -64,7 +64,7 @@ portfolio:
       image: images/portfolio/rao.png
       image_webp: images/portfolio/rao.webp
       categories : ["AIS data","Offshore wind farms","Maritime uses",  "Service provision"]
-      content : Caractérisation du trafic maritime et analyse du risque de croche
+      content : Characterization of maritime traffic and analysis of the hooking risk
       link : "projets/rao4"
       
       

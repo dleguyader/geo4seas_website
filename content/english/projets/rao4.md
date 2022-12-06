@@ -5,7 +5,7 @@ image: images/portfolio/rao.png
 image_webp: images/portfolio/rao.webp
 ---
 
-### Characterization of maritime traffic and analysis of the risk of hooking
+### Characterization of maritime traffic and analysis of the hooking risk 
 
 This service was carried out in the context of the competitive bidding procedure for the designation of a laureate for the development of the offshore wind farm near the Cotentin coast (AO4).
 
