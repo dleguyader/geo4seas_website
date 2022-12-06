@@ -61,8 +61,8 @@ portfolio:
       
       # portfolio item loop
     - name : ROA4
-      image: images/portfolio/roa.png
-      image_webp: images/portfolio/roa.webp
+      image: images/portfolio/rao.png
+      image_webp: images/portfolio/rao.webp
       categories : ["AIS data","Offshore wind farms","Maritime uses",  "Service provision"]
       content : Caractérisation du trafic maritime et analyse du risque de croche
       link : "projets/rao4"

@@ -62,3 +62,10 @@ testimonial:
       image_webp : images/client/logo_ulco.webp
       date : 
       content : ULCO
+      
+                          # testimonial item loop
+    - name : 
+      image : images/client/logo_artelia_m.png
+      image_webp : images/client/logo_artelia_m.webp
+      date : 
+      content : Artelia group
