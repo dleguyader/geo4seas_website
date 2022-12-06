@@ -63,9 +63,16 @@ testimonial:
       date : 
       content : ULCO
       
-                          # testimonial item loop
+    # testimonial item loop
     - name : 
       image : images/client/logo_artelia_m.png
       image_webp : images/client/logo_artelia_m.webp
       date : 
       content : Artelia group
+      
+    # testimonial item loop
+    - name : 
+      image : images/client/logo_shom_rond.png
+      image_webp : images/client/logo_shom_rond.webp
+      date : 
+      content : SHOM

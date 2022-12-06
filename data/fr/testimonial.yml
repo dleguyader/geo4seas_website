@@ -63,30 +63,37 @@ testimonial:
       date : 
       content : ULCO
       
-        # testimonial item loop
+      # testimonial item loop
     - name : 
       image : images/client/logo_PNM_Arcachon_m.jpg
       image_webp : images/client/logo_PNM_Arcachon_m.webp
       date : 
       content : PNM du Bassin d'Arcachon
       
-            # testimonial item loop
+      # testimonial item loop
     - name : 
       image : images/client/logo_ofb.png
       image_webp : images/client/logo_ofb.webp
       date : 
       content : Office français de la biodiversité
       
-                # testimonial item loop
+      # testimonial item loop
     - name : 
       image : images/client/logo_agoa.png
       image_webp : images/client/logo_agoa.webp
       date : 
       content : Sanctuaire Agoa
       
-                    # testimonial item loop
+      # testimonial item loop
     - name : 
       image : images/client/logo_artelia_m.png
       image_webp : images/client/logo_artelia_m.webp
       date : 
       content : Groupe Artelia
+      
+      # testimonial item loop
+    - name : 
+      image : images/client/logo_shom_rond.png
+      image_webp : images/client/logo_shom_rond.webp
+      date : 
+      content : SHOM
