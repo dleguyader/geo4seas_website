@@ -35,6 +35,7 @@ portfolio:
       content : feasibility study for the establishment of refuge areas in Martinique and Guadeloupe.
       link : "projets/zpfagoa"
       
+      
     # portfolio item loop
     - name : AIS LC
       image : images/portfolio/emsa_clip.png
