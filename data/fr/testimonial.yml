@@ -6,6 +6,44 @@ testimonial:
   bg_image_webp : images/backgrounds/water_crop_dark.webp #bg-testimonial.webp
   testimonial_item :
     
+  
+    # testimonial item loop
+    - name : 
+      image : images/client/logo_cnrs_si.jpg
+      image_webp : images/client/logo_cnrs.webp
+      date : 
+      content : CNRS
+    
+    # testimonial item loop
+    - name : 
+      image : images/client/logo_shom_rond.png
+      image_webp : images/client/logo_shom_rond.webp
+      date : 
+      content : SHOM  
+    
+    
+    # testimonial item loop
+    - name : 
+      image : images/client/logo_fem_si.jpg
+      image_webp : images/client/logo_fem.webp
+      date : 
+      content : France Energies Marines
+ 
+       # testimonial item loop
+    - name : 
+      image : images/client/logo_ofb.png
+      image_webp : images/client/logo_ofb.webp
+      date : 
+      content : Office français de la biodiversité
+      
+      
+      # testimonial item loop
+    - name : 
+      image : images/client/logo_artelia_m.png
+      image_webp : images/client/logo_artelia_m.webp
+      date : 
+      content : Groupe Artelia
+    
     
     # testimonial item loop
     - name : 
@@ -21,20 +59,7 @@ testimonial:
       date : 
       content : Fondation de France
     
-     # testimonial item loop
-    - name : 
-      image : images/client/logo_fem_si.jpg
-      image_webp : images/client/logo_fem.webp
-      date : 
-      content : France Energies Marines
-    
-        # testimonial item loop
-    - name : 
-      image : images/client/logo_cnrs_si.jpg
-      image_webp : images/client/logo_cnrs.webp
-      date : 
-      content : CNRS
-      
+
     # testimonial item loop
     - name : 
       image : images/client/logo_DRIIHM_si.jpg
@@ -72,28 +97,10 @@ testimonial:
       
       # testimonial item loop
     - name : 
-      image : images/client/logo_ofb.png
-      image_webp : images/client/logo_ofb.webp
-      date : 
-      content : Office français de la biodiversité
-      
-      # testimonial item loop
-    - name : 
       image : images/client/logo_agoa.png
       image_webp : images/client/logo_agoa.webp
       date : 
       content : Sanctuaire Agoa
       
-      # testimonial item loop
-    - name : 
-      image : images/client/logo_artelia_m.png
-      image_webp : images/client/logo_artelia_m.webp
-      date : 
-      content : Groupe Artelia
+
       
-      # testimonial item loop
-    - name : 
-      image : images/client/logo_shom_rond.png
-      image_webp : images/client/logo_shom_rond.webp
-      date : 
-      content : SHOM
