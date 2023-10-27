@@ -1,0 +1,16 @@
+---
+title: "Participation aux assises du Port du Futur 2023"
+slug: pdf
+author: Damien Le Guyader
+date: '2023-10-16'
+image: images/blog/assisespdf_2023_ok.png
+image_webp: images/blog/assisespdf_2023_ok.webp
+output:
+  blogdown::html_page:
+    toc: false
+---
+
+Nous avons participé à la table ronde sur " l'AIS, une donnée stratégique pour les ports " lors des assises du Port du Futur 2023 à Sète. 
+
+> Accéder au site des assises 2023: [https://www.portdufutur.fr/les-assises/edition-2023](https://www.portdufutur.fr/les-assises/edition-2023).    
+

@@ -1,0 +1,16 @@
+---
+title: "Port of the Future 2023 conference"
+slug: pdf
+author: Damien Le Guyader
+date: '2023-10-16'
+image: images/blog/assisespdf_2023_ok.png
+image_webp: images/blog/assisespdf_2023_ok.webp
+output:
+  blogdown::html_page:
+    toc: false
+---
+
+We participated in the round table on “AIS, a strategic data for ports” during the Port of the Future 2023 conference in Sète. 
+
+> Access the website : [https://www.portdufutur.fr/les-assises/edition-2023](https://www.portdufutur.fr/les-assises/edition-2023).    
+
